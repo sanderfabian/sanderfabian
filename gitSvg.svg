@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="400" viewBox="0 0 1440 400" fill="none">
+<rect width="1440" height="400" rx="20" fill="#727272">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+
+</rect>
+</svg>
