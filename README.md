@@ -15,5 +15,5 @@ A creative and assidious worker, ever learning. Proficient in front-end developm
 ### Socials
 
 
-[<img src='https://github.com/sanderfabian/sanderfabian/assets/145095620/f51a62f5-2e38-4429-821c-e139228e76aa' alt='linkedin' height='60'>](https://github.com/sanderfabian)  [<img src='https://github.com/sanderfabian/sanderfabian/assets/145095620/90177e0c-a67e-48b0-aefc-0e951a12889b' alt='linkedin' height='60'>](https://www.linkedin.com/in/fabian-vsander/)  [<img src='https://github.com/sanderfabian/sanderfabian/assets/145095620/5c3c7951-7fa4-4cce-8e75-f421707db81a' alt='codepen' height='60'>](https://codepen.io/SanderUI) 
+[<img src='https://github.com/sanderfabian/sanderfabian/assets/145095620/f51a62f5-2e38-4429-821c-e139228e76aa' alt='linkedin' height='60'>](https://github.com/sanderfabian)  [<img src='https://github.com/sanderfabian/sanderfabian/assets/145095620/90177e0c-a67e-48b0-aefc-0e951a12889b' alt='linkedin' height='60'>](https://www.linkedin.com/in/fabian-vsander/) 
 
